@@ -1,7 +1,12 @@
-*.*
-!.gitattributes
+# Ignore all files except Markdown files and images
+/*
+!*.md
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.svg
+!*.swig
+
+# Allow .gitignore
 !.gitignore
-!readme.md
-!.gitkeep
-!.swig
-!*.c
