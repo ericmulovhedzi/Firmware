@@ -1,5 +1,5 @@
-Firmware using PIC18F4550 Microcontroller
-========================================
+Firmware projects using PIC18F4550 Microcontroller
+==================================================
 
 Embedded systems software fo written in C programming language for PIC18F4550 microcontrollers.
 
