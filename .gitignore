@@ -6,7 +6,7 @@
 !*.jpeg
 !*.gif
 !*.svg
-!*.swig
+!*.c
 
 # Allow .gitignore
 !.gitignore
