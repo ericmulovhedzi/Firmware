@@ -5,7 +5,7 @@ Embedded systems software fo written in C programming language for PIC18F4550 mi
 
 There are various development environments available for the PIC18f4550 controller but folling are steps through which the said microcontroller could be programmed using MPLABX IDE:
 
-![My Picture](PHOTO-2023-07-14-16-45-27 2.jpeg)
+![My Picture](PHOTO-2023-07-14-16-45-27-2.jpg)
 
 **How to progam the PIC Microcontroller**
 
